@@ -1,26 +1,20 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alexis de Colnet",
+    "label": "Research",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "decolnet@ac.tuwien.ac.at",
+    "phone": "",
+    "url": "https://alexisdec.github.io/",
+    "summary": "Post-doc researcher at TU Wien in the algorithm and complexity group",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Technische Universität Wien, Institute of Logic and Computation, Favoritenstraße 9-11",
+      "postalCode": "A-1040",
+      "city": "Vienna",
+      "countryCode": "AT",
+      "region": "Austria"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
