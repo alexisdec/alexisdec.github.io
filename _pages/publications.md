@@ -7,11 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+My <a href="https://dblp.org/pid/249/1786.html">DBLP</a>.
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
 
 <div class="publications">
 
