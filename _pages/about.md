@@ -8,9 +8,9 @@ profile:
   image: cross.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <font size="+1.5" style="text-align:left">
-     <p> <a href="../assets/pdf/cv.pdf"> 📎 my resume/cv </a></p>
-    </font>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
