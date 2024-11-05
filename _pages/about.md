@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -10,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
     <font size="+1.5" style="text-align:left">
-    <p> ✉️  <a href="javascript:location='mailto:\u0064\u0065\u0063\u006f\u006c\u006e\u0065\u0074\u0040\u0061\u0063\u002e \u0074\u0073\u0077\u0065\u0065\u006e\u002e\u0061\u0063\u002e\u0061\u0074';void 0"><script type="text/javascript">document.write('\u0064\u0065\u0063\u006f\u006c\u006e\u0065\u0074\u0040\u0061\u0063\u002e \u0074\u0073\u0077\u0065\u0065\u006e\u002e\u0061\u0063\u002e\u0061\u0074')</script></a>
+    <p> ✉️  <a href="javascript:location='mailto:\u0064\u0065\u0063\u006f\u006c\u006e\u0065\u0074\u0040\u0061\u0063\u002e\u0074\u0073\u0077\u0065\u0065\u006e\u002e\u0061\u0063\u002e\u0061\u0074';void 0"><script type="text/javascript">document.write('\u0064\u0065\u0063\u006f\u006c\u006e\u0065\u0074\u0040\u0061\u0063\u002e \u0074\u0073\u0077\u0065\u0065\u006e\u002e\u0061\u0063\u002e\u0061\u0074')</script></a>
     </p>
      <p> <a href="../assets/pdf/cv.pdf"> 📎 my resume/cv </a></p>
     </font>
