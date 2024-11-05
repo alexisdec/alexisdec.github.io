@@ -7,12 +7,10 @@ profile:
   align: right
   image: cross.jpg
   image_circular: false # crops the image to make it circular
-  address: 
-    <font size="+1.5" style="text-align:left">
-    <p> ✉️  <a href="javascript:location='mailto:\u0064\u0065\u0063\u006f\u006c\u006e\u0065\u0074\u0040\u0061\u0063\u002e\u0074\u0073\u0077\u0065\u0065\u006e\u002e\u0061\u0063\u002e\u0061\u0074';void 0"><script type="text/javascript">document.write('\u0064\u0065\u0063\u006f\u006c\u006e\u0065\u0074\u0040\u0061\u0063\u002e \u0074\u0073\u0077\u0065\u0065\u006e\u002e\u0061\u0063\u002e\u0061\u0074')</script></a>
-    </p>
-     <p> <a href="../assets/pdf/cv.pdf"> 📎 my resume/cv </a></p>
-    </font>
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
