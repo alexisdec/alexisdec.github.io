@@ -18,7 +18,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a post-doc researcher at TU Wien, in the algorithm and complexity group. Before that I did my PhD at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>.
+I am a post-doc researcher at TU Wien, in the <a href="https://www.ac.tuwien.ac.at/">algorithm and complexity group</a>. Before that I did my PhD at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>.
 
 My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>.
 
