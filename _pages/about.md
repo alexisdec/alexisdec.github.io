@@ -25,9 +25,9 @@ My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>.
 
 <b>Research Domains.</b>
 <ul>
-<li>Knowledge compilation<\li>
-<li>Representation of Boolean functions<\li>
-<li>Proof systems<\li>
-<li>Model counting<\li>
+<li>Knowledge compilation</li>
+<li>Representation of Boolean functions</li>
+<li>Proof systems</li>
+<li>Model counting</li>
 </ul>
 
