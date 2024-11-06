@@ -1,6 +1,7 @@
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
+      {{ site.footer_text }}
       {% if site.impressum_path %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
       {% endif %}
@@ -16,6 +17,7 @@
     {% endif %}
 
     <div class="container">
+      {{ site.footer_text }}
       {% if site.impressum_path %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
       {% endif %}
