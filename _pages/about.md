@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 ## Bio 
 
-I am a post-doc researcher at TU Wien, in the <a href="https://www.ac.tuwien.ac.at/">algorithm and complexity group</a>. Before that, I did my PhD at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>.
+I am a post-doc researcher at TU Wien, in the <a href="https://www.ac.tuwien.ac.at/">algorithm and complexity group</a>, since November 2022. I did my PhD from September 2019 to November 2022 at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>.
 
 My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>.
 ## Research interests.
