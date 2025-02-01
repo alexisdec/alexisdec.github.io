@@ -18,17 +18,23 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a post-doc researcher at TU Wien, in the <a href="https://www.ac.tuwien.ac.at/">algorithm and complexity group</a>. Before that I did my PhD at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>.
 
-My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>. My <a href="https://dblp.org/pid/249/1786.html">DBLP</a> entry.
+## Bio 
 
-<b>Research Domains.</b>
-<ul>
-<li>Knowledge compilation</li>
-<li>Representation of Boolean functions</li>
-<li>Proof systems</li>
-<li>Model counting</li>
-</ul>
+I am a post-doc researcher at TU Wien, in the <a href="https://www.ac.tuwien.ac.at/">algorithm and complexity group</a>. Before that, I did my PhD at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>.
+
+My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>.
+## Research interests.
+
+My main research interests focus on <b>knowledge compilation</b>, <b>proof systems</b> and <b>model counting</b>. Knowledge compilation is the study of representations for functions and of algorithms to transform from one representation to another. I have a particular interest in understanding the practical limitations of knowledge compilers compared to the theory.   
+
+## Research Project 
+
+I am the principal investigator of the FWF ESPRIT project <a href="https://www.fwf.ac.at/en/research-radar/10.55776/ESP235">"Overcoming Intractability in the Knowledge Compilation Map"</a> (FWF ESP 235). 
+
+## Publication
+
+ My <a href="https://dblp.org/pid/249/1786.html">DBLP</a> entry.
 
 <div class="publications">
 
