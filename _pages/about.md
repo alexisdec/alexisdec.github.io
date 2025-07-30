@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 profile:
-  align: right
+  align: left
   image: cross.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
