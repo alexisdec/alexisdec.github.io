@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: left
   image: cross.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <font size="+1.5" style="text-align:left">
      <p> 📎 <a href="../assets/pdf/cv.pdf"> my resume </a></p>
