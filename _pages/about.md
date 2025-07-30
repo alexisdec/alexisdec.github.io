@@ -9,7 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <font size="+1.5" style="text-align:left">
-     <p> 📎 <a href="../assets/pdf/cv.pdf"> my resume </a></p>
+     <p> he/him
+     <p> 📎 <a href="../assets/pdf/cv.pdf"> resume </a></p>
      <p> ✉️ <a href="javascript:location='mailto:decolnet@ac.tuwien.ac.at';void 0"><script type="text/javascript">document.write('decolnet@ac.tuwien.ac.at')</script></a>
     </p>
     </font>
