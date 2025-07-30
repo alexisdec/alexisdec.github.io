@@ -11,7 +11,7 @@ profile:
     <font size="+1.5" style="text-align:left">
      <p> he/him </p><br/>
      <p> 📎 <a href="../assets/pdf/cv.pdf"> resume </a></p><br/>
-     <p> ✉️ <a href="javascript:location='mailto:decolnet@ac.tuwien.ac.at';void 0"><script type="text/javascript">document.write('decolnet@ac.tuwien.ac.at')</script></a>
+     <p> ✉️ <a href="javascript:location='mailto:decolnet@ac.tuwien.ac.at';void 0"><script type="text/javascript">document.write('decolnet@ac.tuwien.ac.at')</script></a><br/><br/>
     </p>
     </font>
 
