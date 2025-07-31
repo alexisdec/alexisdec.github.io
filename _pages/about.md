@@ -5,8 +5,8 @@ permalink: /
 
 profile:
   align: left
-  image: cross.jpg
-  image_circular: false # crops the image to make it circular
+  image: rosace.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <font size="+1.5" style="text-align:left">
      <p> he/him </p><br/>
