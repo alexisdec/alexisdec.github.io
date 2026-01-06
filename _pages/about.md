@@ -10,7 +10,7 @@ profile:
   more_info: >
     <font size="+1.5" style="text-align:left">
      <p> he/him </p><br/>
-     <p> 📎 <a href="../assets/pdf/cv.pdf"> resume </a></p><br/>
+     <p> 📎 <a href="../assets/pdf/cv.pdf"> CV </a></p><br/>
      <p> ✉️ <a href="javascript:location='mailto:decolnet@ac.tuwien.ac.at';void 0"><script type="text/javascript">document.write('decolnet@ac.tuwien.ac.at')</script></a><br/><br/>
     </p>
     </font>
@@ -21,8 +21,6 @@ social: false # includes social icons at the bottom of the page
 ---
 ## Alexis de Colnet
  
-### About me 
-
 I am a post-doc researcher at Leiden University, in the <a href="https://liacs.leidenuniv.nl/">Leiden Institute of Advanced Computer Science (LIACS)</a> since November 2025. 
 
 I did my PhD from September 2019 to November 2022 at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>. From November 2022 to November 2025 I was a post-doc researcher at TU Wien in the <a href="https://www.ac.tuwien.ac.at/">algorithms and complexity groupe</a>. 
