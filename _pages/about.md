@@ -11,9 +11,9 @@ profile:
     <font size="+1.5" style="text-align:left">
      <p> he/him </p><br/>
      <p> 📎 <a href="../assets/pdf/cv.pdf"> CV </a></p><br/>
+     <p> 📄︎ <a href="https://dblp.org/pid/249/1786.html">DBLP</a><br/>
      <p> ✉️ <a href="javascript:location='mailto:decolnet@ac.tuwien.ac.at';void 0"><script type="text/javascript">document.write('decolnet@ac.tuwien.ac.at')</script></a><br/>
-     <p> ✉️ <a href="javascript:location='mailto:'a.e.h.de.colnet@liacs.leidenuniv.nl';void 0"><script type="text/javascript">document.write('a.e.h.de.colnet@liacs.leidenuniv.nl')</script></a><br/><br/>
-     <p> 📄︎<a href="https://dblp.org/pid/249/1786.html">DBLP entry</a><br/><br/> 
+     <p> ✉️ <a href="javascript:location='mailto:'a.e.h.de.colnet@liacs.leidenuniv.nl';void 0"><script type="text/javascript">document.write('a.e.h.de.colnet@liacs.leidenuniv.nl')</script></a><br/><br/> 
     </p>
     </font>
 
