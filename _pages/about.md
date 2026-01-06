@@ -29,7 +29,7 @@ I did my PhD from September 2019 to November 2022 at <a href="https://www.cril.u
 My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>.
 ### Research interests.
 
-My main research interests focus on <b>knowledge compilation</b>, <b>proof systems</b> and <b>model counting</b>. Knowledge compilation is the study of representations for functions and of algorithms to transform from one representation to another. I have a particular interest in understanding the practical limitations of knowledge compilers compared to the theory.   
+My main research interests focus on <b>knowledge compilation</b>, <b>proof systems</b> and <b>model counting</b>. Knowledge compilation is the study of representations for functions and of algorithms to transform from one representation to another. I have a particular interest in understanding the practical limitations of knowledge compilers compared to the theory.  <br/><br/>  
 
 ### Publications
 
