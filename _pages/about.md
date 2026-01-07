@@ -24,7 +24,9 @@ social: false # includes social icons at the bottom of the page
  
 I am a post-doc researcher at Leiden University, in the <a href="https://liacs.leidenuniv.nl/">Leiden Institute of Advanced Computer Science (LIACS)</a> since November 2025. 
 
-I did my PhD from September 2019 to November 2022 at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>. From November 2022 to November 2025 I was a post-doc researcher at TU Wien in the <a href="https://www.ac.tuwien.ac.at/">algorithms and complexity groupe</a>. 
+I did my PhD from September 2019 to November 2022 at <a href="https://www.cril.univ-artois.fr/">CRIL</a>, Université d'Artois, under the supervision of <a href="https://www.cril.fr/~marquis/">Pierre Marquis</a> and <a href="https://www.cril.fr/~mengel/">Stefan Mengel</a>. 
+
+From November 2022 to November 2025 I was a post-doc researcher at TU Wien in the <a href="https://www.ac.tuwien.ac.at/">algorithms and complexity groupe</a>. I was the primary investigator of the ESPRIT FWF ESP 235 <i>Overcoming intractability in the knowledge compilation map</i>.
 
 My thesis is available <a href="../assets/pdf/thesis_deColnet.pdf">here</a>.
 ### Research interests.
